@@ -1,5 +1,6 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 title: StockTheHouse's Github
-description: This page is a centralized pretty version of my github account.  It covers portfolio projects, code tool boxs, games made in python, labds for anyone to try (or improve) and will keep getting more things.  Thanks for stopping by
-
-
+description: |
+  Welcome to my GitHub portfolio! Here, you'll find my best projects, tools, 
+  Python games, and interactive labs for anyone to try (or improve).  
+  Expect updates as I keep adding cool stuff. Thanks for stopping by!
