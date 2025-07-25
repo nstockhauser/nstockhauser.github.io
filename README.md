@@ -1,3 +1,3 @@
 
 # Projects:
-- [Wordpress Generator - AWS](https://github.com/nstockhauser/wordpress-generator)
+- [Website Generator - AWS](https://github.com/nstockhauser/aws-website-generator)
